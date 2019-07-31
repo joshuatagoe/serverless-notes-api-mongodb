@@ -7,7 +7,7 @@ export async function main(event, context, callback){
     const data = JSON.parse(event.body);
 
     const params = {
-        TableName : "notes",
+        TableName : process.env.tableName,
 
         Item: {
             userid: event.requestContext.identity.cognitoIdentityId,
