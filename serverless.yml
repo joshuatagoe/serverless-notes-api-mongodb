@@ -111,6 +111,7 @@ functions:
           method: delete
           cors: true
           authorizer: aws_iam
+          
   billing:
     handler: billing.main
     events:
