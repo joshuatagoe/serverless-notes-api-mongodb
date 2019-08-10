@@ -2,7 +2,7 @@
 
 Extension of previous [Notes Serverlesss API](https://github.com/JUCHY/serverless-stack-api)
 
-Similar APP Setup, but instead Database is updated to deploy in MongoDB/DocumentDB instead of Dynamo DB
+Similar APP Setup, but instead uses MongoDB/Document DB database isntead of DynamoDB
 
 **WORK IN PROGRESS**
 
