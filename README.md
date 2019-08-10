@@ -1,4 +1,10 @@
-# Serverless Node.js Starter
+# Notes APP API Using MongoDB
+
+Extension of previous [Notes Serverlesss API](https://github.com/JUCHY/serverless-stack-api)
+
+Similar APP Setup, but instead Database is updated to deploy in MongoDB/DocumentDB instead of Dynamo DB
+
+**WORK IN PROGRESS**
 
 A Serverless starter that adds ES7 syntax, serverless-offline, environment variables, and unit test support. Part of the [Serverless Stack](http://serverless-stack.com) guide.
 
